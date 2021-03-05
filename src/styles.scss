@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+
 :root {
     --primary-color: #dc3545;
     --dark-color: #333333;
@@ -58,7 +61,7 @@ table th {
 
 .btn {
     display: inline-block;
-    background-color: var(--light-color);
+    background-color: #dc3545;
     color: #333;
     padding: .4rem 1.3rem;
     font-size: 1rem;
